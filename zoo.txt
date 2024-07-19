@@ -1,0 +1,5 @@
+Bird,flamingo,1,pink
+Mammal,elephant,5,500
+Reptile,Tortilla,50,True
+ZooKeeper,ivan,director
+Veterinarian,peter,surgeon
